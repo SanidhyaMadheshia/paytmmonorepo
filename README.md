@@ -133,3 +133,33 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turborepo.com/docs/crafting-your-repository/running-tasks#using-filters)
 - [Configuration Options](https://turborepo.com/docs/reference/configuration)
 - [CLI Usage](https://turborepo.com/docs/reference/command-line-reference)
+
+
+
+
+
+
+
+
+# setup database in monorepo 
+
+.env
+
+
+DATABASE_URL="postgresql://postgres:mysecretpassword@localhost:5432/paytm"
+
+
+
+
+# setup backend
+
+
+# error faced : 
+
+https://www.notion.so/Monorepos-22af2275f4a18042ac82e660ba1c2ea7?source=copy_link
+
+
+
+
+
+
